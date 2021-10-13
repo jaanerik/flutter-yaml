@@ -4,7 +4,7 @@
         android:label="flutteryaml"
         android:icon="@mipmap/ic_launcher">
         <activity
-            android:name="com.example.flutter_yaml.MainActivity"
+            android:name="com.jaanerikpihel.flutter_yaml.MainActivity"
             android:launchMode="singleTop"
             android:theme="@style/LaunchTheme"
             android:configChanges="orientation|keyboardHidden|keyboard|screenSize|smallestScreenSize|locale|layoutDirection|fontScale|screenLayout|density|uiMode"
